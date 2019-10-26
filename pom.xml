@@ -6,9 +6,12 @@
 
     <groupId>cn.com.datu</groupId>
     <artifactId>design-pattern</artifactId>
+    <packaging>pom</packaging>
     <version>1.0.0</version>
     <modules>
         <module>factory-pattern</module>
+        <module>builder-pattern</module>
+        <module>singletonpattern</module>
     </modules>
 
     <dependencies>
