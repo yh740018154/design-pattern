@@ -12,6 +12,7 @@
         <module>factory-pattern</module>
         <module>builder-pattern</module>
         <module>singletonpattern</module>
+        <module>templete-Model</module>
     </modules>
 
     <dependencies>

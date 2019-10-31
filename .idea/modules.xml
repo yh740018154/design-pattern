@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/design-pattern.iml" filepath="$PROJECT_DIR$/.idea/design-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/factory-pattern/factory-pattern.iml" filepath="$PROJECT_DIR$/factory-pattern/factory-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/singletonpattern/singletonpattern.iml" filepath="$PROJECT_DIR$/singletonpattern/singletonpattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/templete-Model/templete-Model.iml" filepath="$PROJECT_DIR$/templete-Model/templete-Model.iml" />
     </modules>
   </component>
 </project>

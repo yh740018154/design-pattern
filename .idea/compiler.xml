@@ -9,13 +9,15 @@
         <module name="builder-pattern" />
         <module name="singletonpattern" />
         <module name="factory-pattern" />
+        <module name="templete-Model" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
-      <module name="builder-pattern" target="1.5" />
-      <module name="design-pattern" target="1.5" />
-      <module name="factory-pattern" target="1.5" />
-      <module name="singletonpattern" target="1.5" />
+      <module name="builder-pattern" target="8" />
+      <module name="design-pattern" target="8" />
+      <module name="factory-pattern" target="8" />
+      <module name="singletonpattern" target="8" />
+      <module name="templete-Model" target="8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -25,6 +27,7 @@
       <module name="design-pattern" options="" />
       <module name="factory-pattern" options="" />
       <module name="singletonpattern" options="" />
+      <module name="templete-Model" options="" />
     </option>
   </component>
 </project>
